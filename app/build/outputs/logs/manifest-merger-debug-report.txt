@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\99acd68351ad30ab8d73d00e475947af\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a209716c9d5301fdcc1dd51388042c11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc18ba1e53e809a1b0ed6795cd9499c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\031d9df5933ea13f341d090dc423e637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\f375d1e96267cbc96c323782c16eb913\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1bd9751e7f2987c2e2081b0391c56660\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ae99a084d34d4e4db2f2c06e76b5fa5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ccf5e18845e8fb15f0eb5e8737fb5771\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65a6c91ef24f7b7d2bebe87d55328e61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\71372470dbe50cfc61def7cc7b7f39dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73fbd0507756d6e5635c22d34719a6ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4172940fa434d5a35e2ff8ab3ffd21db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6628489e58ee3c11403e1829096c31b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\37132ce709572ab003e31e20442821fa\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\259beaa1b90e60610e70e67d6ea2c4ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0a0ae37acc29d782553e10d1cd681849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6019399de016881fc5a505d4ca35100\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f3c534beac94917d5380a0bee564040\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5828f2f69ce802a0ce0810912f9bfb6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b9da91b2b3f4bf6933dc282b98119fd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\896fa1bf108f1e63e8d9adfcdaaa8ed1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\37f4170f22a02d32b6938a08c0d6c33e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\79efda4bb7958ab4840625be5ed457bb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a545001b451c04dba09cfe74084d56db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6c232e0b63690cce298fd3c871c88eb2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\515e64e2d42f81c103c908cf266f5b4a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2873df14473e21504cb85522492e644f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cc47b1d2485dd483b0726bbe7aa85f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fda389e597f55a70e1cc7ad935198629\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00202b6c5bcaf2105a02e78398c08ebe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\58b77b2e42051803cd613ec73fbb62b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8df8227646e0accc6d6cbc2044c4dd96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e91034599980e0cc2f44406ac0f31fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4ab76b57033b6a7de6cb4f2333ab73c3\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:9:22-64
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:11:5-89
+	android:required
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:11:64-87
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:11:19-63
+application
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:14:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\99acd68351ad30ab8d73d00e475947af\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\99acd68351ad30ab8d73d00e475947af\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc18ba1e53e809a1b0ed6795cd9499c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc18ba1e53e809a1b0ed6795cd9499c5\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\79efda4bb7958ab4840625be5ed457bb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\79efda4bb7958ab4840625be5ed457bb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:16:9-45
+activity#com.example.aletta.nokiaowerinternet.MainActivity
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\99acd68351ad30ab8d73d00e475947af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\99acd68351ad30ab8d73d00e475947af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a209716c9d5301fdcc1dd51388042c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a209716c9d5301fdcc1dd51388042c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc18ba1e53e809a1b0ed6795cd9499c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc18ba1e53e809a1b0ed6795cd9499c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\031d9df5933ea13f341d090dc423e637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\031d9df5933ea13f341d090dc423e637\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\f375d1e96267cbc96c323782c16eb913\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\f375d1e96267cbc96c323782c16eb913\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1bd9751e7f2987c2e2081b0391c56660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1bd9751e7f2987c2e2081b0391c56660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ae99a084d34d4e4db2f2c06e76b5fa5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ae99a084d34d4e4db2f2c06e76b5fa5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ccf5e18845e8fb15f0eb5e8737fb5771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ccf5e18845e8fb15f0eb5e8737fb5771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65a6c91ef24f7b7d2bebe87d55328e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65a6c91ef24f7b7d2bebe87d55328e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\71372470dbe50cfc61def7cc7b7f39dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\71372470dbe50cfc61def7cc7b7f39dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73fbd0507756d6e5635c22d34719a6ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\73fbd0507756d6e5635c22d34719a6ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4172940fa434d5a35e2ff8ab3ffd21db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4172940fa434d5a35e2ff8ab3ffd21db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6628489e58ee3c11403e1829096c31b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6628489e58ee3c11403e1829096c31b5\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\37132ce709572ab003e31e20442821fa\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\37132ce709572ab003e31e20442821fa\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\259beaa1b90e60610e70e67d6ea2c4ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\259beaa1b90e60610e70e67d6ea2c4ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0a0ae37acc29d782553e10d1cd681849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0a0ae37acc29d782553e10d1cd681849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6019399de016881fc5a505d4ca35100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6019399de016881fc5a505d4ca35100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f3c534beac94917d5380a0bee564040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f3c534beac94917d5380a0bee564040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5828f2f69ce802a0ce0810912f9bfb6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5828f2f69ce802a0ce0810912f9bfb6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b9da91b2b3f4bf6933dc282b98119fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b9da91b2b3f4bf6933dc282b98119fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\896fa1bf108f1e63e8d9adfcdaaa8ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\896fa1bf108f1e63e8d9adfcdaaa8ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\37f4170f22a02d32b6938a08c0d6c33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\37f4170f22a02d32b6938a08c0d6c33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1c85df9013f86785b92c3cecf70e2800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\79efda4bb7958ab4840625be5ed457bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\79efda4bb7958ab4840625be5ed457bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a545001b451c04dba09cfe74084d56db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a545001b451c04dba09cfe74084d56db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6c232e0b63690cce298fd3c871c88eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6c232e0b63690cce298fd3c871c88eb2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\515e64e2d42f81c103c908cf266f5b4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\515e64e2d42f81c103c908cf266f5b4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2873df14473e21504cb85522492e644f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2873df14473e21504cb85522492e644f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cc47b1d2485dd483b0726bbe7aa85f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cc47b1d2485dd483b0726bbe7aa85f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fda389e597f55a70e1cc7ad935198629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fda389e597f55a70e1cc7ad935198629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00202b6c5bcaf2105a02e78398c08ebe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00202b6c5bcaf2105a02e78398c08ebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\58b77b2e42051803cd613ec73fbb62b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\58b77b2e42051803cd613ec73fbb62b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8df8227646e0accc6d6cbc2044c4dd96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8df8227646e0accc6d6cbc2044c4dd96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e91034599980e0cc2f44406ac0f31fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e91034599980e0cc2f44406ac0f31fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4ab76b57033b6a7de6cb4f2333ab73c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4ab76b57033b6a7de6cb4f2333ab73c3\AndroidManifest.xml:20:5-44
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		ADDED from E:\NOKIA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NOKIA\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Aletta\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\6122127b52ebb8497379e106b492bd81\AndroidManifest.xml:24:13-83
